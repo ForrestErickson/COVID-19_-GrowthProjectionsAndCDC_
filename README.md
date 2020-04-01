@@ -10,10 +10,8 @@ License: Public Domain, Credit me if you want.
 
 Note: data on 28 and 29 March is from JHU.
 
-
-![Image](Cases.gif "CDC Confirmed Cases")
-
 As of April 1, 2020
+
 ![Image](Cases.gif "CDC Confirmed Cases")
 ![Image](Deaths.gif "CDC Confirmed Deaths")
 ![Image](Mortality.gif "Mortality, cumulative")
